@@ -1,0 +1,30 @@
+
+[
+    {
+        "name": "The Little Mermaid",
+        "year": 1989,
+        "protagonist": "Ariel"
+    },
+    {
+        "name": "Cinderella",
+        "year": 1950,
+        "protagonist": "Cinderella"
+    },
+    {
+        "name": "Toy Story",
+        "year": 1995,
+        "protagonist": "Andy"
+    },
+    {
+        "name": "Fantasia",
+        "year": 1940,
+        "protagonist": "Mickey"
+    },
+    {
+        "name": "Hercules",
+        "year": 1997,
+        "protagonist": "Hercules"
+    }
+
+   
+]
